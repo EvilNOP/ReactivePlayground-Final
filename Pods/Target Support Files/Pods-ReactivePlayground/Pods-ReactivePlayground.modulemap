@@ -1,0 +1,6 @@
+framework module Pods_ReactivePlayground {
+  umbrella header "Pods-ReactivePlayground-umbrella.h"
+
+  export *
+  module * { export * }
+}
